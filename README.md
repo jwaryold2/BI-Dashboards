@@ -1,1 +1,5 @@
-<object data="FARSdashboard4-4-25.pdf" width="1000" height="1000" type='application/pdf/>
+<h1>
+Dashboards using Power BI
+</h1>
+
+[FARS 4/4/2025](FARSdashboard4-4-25.pdf)
