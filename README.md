@@ -1,1 +1,1 @@
-[First Attempt At Making A FARS Dashboard 4/4/2025](FARSdashboard4-4-25.pdf)
+<object data="FARSdashboard4-4-25.pdf" width="1000" height="1000" type='application/pdf/>
